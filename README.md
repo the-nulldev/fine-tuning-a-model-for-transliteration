@@ -16,8 +16,7 @@ In this project, you will learn how to fine-tune a T5 model to convert Polish na
 │   └── toponyms_of_poland.csv # CSV file with Polish toponyms and their English equivalents
 ├── anglicization.ipynb # Jupyter notebook for fine-tuning the T5
 ├── .gitignore # ignored files in version control
-├── README.md # Project documentation
-└── requirements.txt #required Python packages
+└── README.md # Project documentation
 ```
 ---
 
