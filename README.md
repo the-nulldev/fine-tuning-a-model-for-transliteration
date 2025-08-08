@@ -1,4 +1,4 @@
-# Fine-tuning a Model for Anglicization of Polish Names and Toponyms
+# Fine-tuning a Model for Transliteration
 
 ## Introduction
 You have a Facebook penfriend from Poland. His name is Alexandre, but it's  written as Aleksandre in Poland. Recently, he traveled abroad and posted a photo with Stany Zjednoczone (the United States) as the geolocation. You can't understand where he is since the geolocation is in Polish. This frustrates you, so you decide to fine-tune a transformers model so that all Polish names and toponyms are automatically anglicized.
